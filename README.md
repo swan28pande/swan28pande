@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Swanand! 
 
 <!--
 **swan28pande/swan28pande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,14 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Javascript and React 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Web development and Machine learning  
+
 
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's connect:** ️
@@ -25,5 +19,5 @@ Here are some ideas to get you started:
 
 📈 my github stats
 
-[![Swanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=swan28pande&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Swanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=swan28pande&show_icons=true&hide=stars,issues&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
