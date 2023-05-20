@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=swan28pande &show_icons=true&theme=gotham" alt="swan28pande" />
+[![Swanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=swan28pande)](https://github.com/anuraghazra/github-readme-stats)
+
