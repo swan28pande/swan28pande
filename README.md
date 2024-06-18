@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/swan28pande/)
 
 
-[![Swanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide=stars,issues&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=tokyonight)](https://github.com/swan28pande/)
+[![Swanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=swan28pande&show_icons=true&hide=stars,issues&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swan28pande&layout=compact&theme=tokyonight)](https://github.com/swan28pande/)
