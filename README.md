@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Web development and Machine learning  
-
+- 🔭 I’m currently a master's student at Stony Brook University, New York
 
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's connect:** ️
